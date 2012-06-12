@@ -1,5 +1,8 @@
 # Overview
 
+Please Note, I forked this gits project just to make sure the main user doesnt delete the original.
+Some gems needs to be reservd for future generations.
+
 **Effect Games** provides a suite of developer tools for creating and publishing web-based video games.  The software is free, and includes an asset manager, level editor, sprite manager, environment editor, and publishing tools.  The source code is released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
 At the core of Effect Games is the *Effect Engine*, a JavaScript game engine which uses built-in browser technologies to render graphics.  Currently the engine uses classic DHTML, not the Canvas element nor WebGL.  For audio we use HTML5 whenever we can, but fall back to Flash where necessary (which is unfortunately a lot of the time).  The Effect Engine supports most browsers including Internet Explorer 6+, Firefox 3+, Safari 3+, Chrome 2+, Opera 9+, and all major platforms including Windows, Mac and Linux.
